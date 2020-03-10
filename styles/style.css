@@ -1,3 +1,26 @@
+.body {
+    font-family: arial,sans-serif;
+}
 #google-logo {
     padding-top: 109px;
+}
+#searchform {
+    background: #fff;
+    display: flex;
+    border: 1px solid;
+    box-shadow: none;
+    border-radius: 24px;
+    height: 44px;
+    margin: auto;
+    width: 482px;
+    font-size: 13px;
+    position: absolute;
+    top: 269px;
+}
+.textform {
+    -webkit-appearance: none;
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 14px;
+    
 }
